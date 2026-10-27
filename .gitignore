@@ -1,0 +1,9 @@
+# Firmware build: fetched Keychron tree and output
+firmware/.build/
+firmware/dist/
+
+# App build
+app/.build/
+app/dist/
+app/**/bin/
+app/**/obj/
